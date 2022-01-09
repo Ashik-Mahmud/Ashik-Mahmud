@@ -55,6 +55,9 @@
 <img width="550px" alt="Ashik Mahmud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Ashik-Mahmud&show_icons=true"/>
 <br>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashik-Mahmud)  
+
+<br>
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Mahmud)  
