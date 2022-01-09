@@ -10,7 +10,7 @@
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ashikmahmud187/)
 <br/>
 
-Hey! I am Ashik Mahmud a Web Developer & Researcher. What are you looking for- Just go down and pick Email to email me for your work. I am specialist in React & JavaScript Overall Web Developing and also I am ready to consalt you any web related decision. If you have any project so feel free to hire me.
+Hey! I am Ashik Mahmud a Web Developer & Researcher. What are you looking for- Just go down and pick Email to email me for your work. I am specialist in React & JavaScript Overall Web Developing and also I am ready to consalt you any web related decision. If you have any project so feel free to hire me. And also you can hire through above all kind of social media. Thanks for visit my github account.
 
 <br />
 
