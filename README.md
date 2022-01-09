@@ -68,6 +68,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-Thanks a lot <br>
+**Thanks a lot <br>
 For Enter In my Github Account.
 
