@@ -55,6 +55,9 @@
 <img width="550px" alt="Ashik Mahmud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Ashik-Mahmud&show_icons=true"/>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Mahmud)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashik-Mahmud)  
 
 <br>
