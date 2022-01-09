@@ -8,7 +8,9 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/ashikmhamud.abir.7)
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/AshikMa36093377)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ashikmahmud187/)
+<br/>
 
+Hey! I am Ashik Mahmud a Web Developer & Researcher. What are you looking for- Just go down and pick Email to email me for your work. I am specialist in React & JavaScript Overall Web Developing and also I am ready to consalt you any web related decision. If you have any project so feel free to hire me.
 
 <br />
 
@@ -49,10 +51,6 @@
 
 
 <br />
-
-<br />
-
-<br />
 <br />
 <img width="550px" alt="Ashik Mahmud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Ashik-Mahmud&show_icons=true"/>
 <br>
@@ -66,7 +64,7 @@
 <br>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Mahmud&card_width=550px)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Mahmud&card_width=550px)   -->
 
 
 ## 📧 For Business Inquiries 
