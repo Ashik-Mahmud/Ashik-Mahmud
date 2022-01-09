@@ -52,6 +52,8 @@
 
 <br />
 <br />
+<img width="550px" alt="Alamin Howlader Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dvlprAlamin&show_icons=true"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
