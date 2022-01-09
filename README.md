@@ -55,7 +55,8 @@
 <img width="550px" alt="Ashik Mahmud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Ashik-Mahmud&show_icons=true"/>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Mahmud)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Mahmud&card_width=550)](https://github.com/Ashik-Mahmud/Ashik-Mahmud)
+
 <br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashik-Mahmud)  
