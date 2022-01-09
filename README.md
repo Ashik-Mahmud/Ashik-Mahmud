@@ -54,7 +54,11 @@
 <br />
 <img width="550px" alt="Ashik Mahmud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Ashik-Mahmud&show_icons=true"/>
 <br>
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Mahmud&card_width=550)](https://github.com/Ashik-Mahmud/Ashik-Mahmud)
+
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Mahmud)  
+
 
 ## 📧 For Business Inquiries 
 ✅  ► ashikmamud187@gmail.com <br><br><br>
