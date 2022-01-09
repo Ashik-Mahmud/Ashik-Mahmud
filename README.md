@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##  I am [Ashik Mahmud](https://google.com)
-
+> I love JavaScript & React as well
 
 **Ashik-Mahmud/Ashik-Mahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Connect with me:
