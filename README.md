@@ -28,7 +28,7 @@
 
 <img align="left" alt="React" width="26px" src="https://i.ibb.co/jD7j5Gv/react.png" />
 
-<img align="left" alt="Api" width="26px" src="https://ibb.co/9swpFHd" />
+<img align="left" alt="Api" width="26px" src="https://ibb.co/9swpFHd/api.jpg" />
 
 <!-- <img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/GF9MYQn/node.png" /> -->
 
