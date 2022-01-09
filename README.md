@@ -2,7 +2,6 @@
 ##  I am [Ashik Mahmud](https://google.com)
 > I love **JavaScript & React** as well
 
-**Ashik-Mahmud/Ashik-Mahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ashik-mahmud-1510421b0/)
