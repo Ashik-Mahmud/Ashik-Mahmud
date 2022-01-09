@@ -24,6 +24,8 @@
 
 <img align="left" alt="bootstrap" width="26px" src="https://i.ibb.co/p4ynHSD/bootstrap.png" />
 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26" />
+
 <img align="left" alt="Material-ui" width="26px" src="https://i.ibb.co/HThxRY8/material-ui.png" />
 
 <img align="left" alt="React" width="26px" src="https://i.ibb.co/jD7j5Gv/react.png" />
