@@ -66,7 +66,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+## 📧 For Business Inquiries 
+✅  ► ashikmamud187@gmail.com
 **Thanks a lot <br>
 For Enter In my Github Account.**
 > Take ***Love*** ALways
