@@ -48,6 +48,7 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 
 <!-- <img align="left" alt="Git" width="26px" src="https://i.ibb.co/fXQQ273/c.png" /> -->
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26" />
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="26" />
 
 
 <br />
