@@ -59,8 +59,10 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Mahmud&card_width=550px)](https://github.com/Ashik-Mahmud/Ashik-Mahmud)
 
 <br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashik-Mahmud)  
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-mahmud&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+</p>
 
 <br>
 
