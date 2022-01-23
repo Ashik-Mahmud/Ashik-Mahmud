@@ -53,7 +53,6 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 
 <br />
 <br />
-<img width="550px" alt="Ashik Mahmud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Ashik-Mahmud&show_icons=true"/>
 <br>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Mahmud&card_width=550px)](https://github.com/Ashik-Mahmud/Ashik-Mahmud)
