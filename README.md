@@ -3,7 +3,7 @@
 > I love **JavaScript & React** as well
 
 <br>
-<img style="width: 100%;"  src="https://pbs.twimg.com/profile_banners/1355507083291078657/1620281461/600x200" />
+<img style="width: 100%;"  src="https://drive.google.com/file/d/1POal-npPEWRxUH_DwR0f2grsNgWNCMtN/view" />
 <br>
 
 ### Connect with me:
