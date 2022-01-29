@@ -3,9 +3,7 @@
 > I love **JavaScript & React** as well
 
 <br>
-<div style="height: 400px; ">
- <img style="width: 100%;height: 100%;object-fit:cover;"  src="https://i.ibb.co/pwvNBLN/Ashik-Mahmud.png" />
-</div>
+ <img style="width: 100%;"  src="https://i.ibb.co/WG92kt4/Christmas-Garlands-and-Mistletoe-Twitter-Header.png" />
 <br>
 
 ### Connect with me:
