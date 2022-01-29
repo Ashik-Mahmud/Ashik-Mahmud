@@ -44,7 +44,7 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 
  <img align="left" alt="Git" width="26px" src="https://i.ibb.co/bby50xs/redux.png" /> 
 
- <img align="left" alt="Git" width="26px" src="https://i.ibb.co/CJJ43CK/spring.png" /> 
+<!--  <img align="left" alt="Git" width="26px" src="https://i.ibb.co/CJJ43CK/spring.png" />  -->
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/31qMkVQ/vscode.png" />
 
