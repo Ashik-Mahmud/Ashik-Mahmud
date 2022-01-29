@@ -2,6 +2,10 @@
 ##  I am [Ashik Mahmud](https://ashik-mahmud.github.io/mission-2022/) a passionate Web developer
 > I love **JavaScript & React** as well
 
+<br>
+<img align="left"  src="https://pbs.twimg.com/profile_banners/1355507083291078657/1620281461/600x200" />
+<br>
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ashik-mahmud-1510421b0/)
