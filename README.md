@@ -3,7 +3,7 @@
 > I love **JavaScript & React** as well
 
 <br>
-<img style="width: 100%;"  src="https://drive.google.com/file/d/1POal-npPEWRxUH_DwR0f2grsNgWNCMtN/view" />
+<img style="width: 100%;"  src="https://i.ibb.co/pwvNBLN/Ashik-Mahmud.png" />
 <br>
 
 ### Connect with me:
