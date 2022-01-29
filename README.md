@@ -34,17 +34,17 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 
 <img align="left" alt="React" width="26px" src="https://i.ibb.co/jD7j5Gv/react.png" />
 
-<!-- <img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/GF9MYQn/node.png" /> -->
+<img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/GF9MYQn/node.png" /> 
 
-<!-- <img align="left" alt="Express.js" width="26px" src="https://i.ibb.co/nrbPzJp/express.png" /> -->
+<img align="left" alt="Express.js" width="26px" src="https://i.ibb.co/nrbPzJp/express.png" /> 
 
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/f4pzGjH/mongodb.png" /> -->
+ <img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/f4pzGjH/mongodb.png" /> 
 
-<!-- <img align="left" alt="Git" width="26px" src="https://i.ibb.co/mhxBpgM/reactbootstrap.png" /> -->
+ <img align="left" alt="Git" width="26px" src="https://i.ibb.co/mhxBpgM/reactbootstrap.png" /> 
 
-<!-- <img align="left" alt="Git" width="26px" src="https://i.ibb.co/bby50xs/redux.png" /> -->
+ <img align="left" alt="Git" width="26px" src="https://i.ibb.co/bby50xs/redux.png" /> 
 
-<!-- <img align="left" alt="Git" width="26px" src="https://i.ibb.co/CJJ43CK/spring.png" /> -->
+ <img align="left" alt="Git" width="26px" src="https://i.ibb.co/CJJ43CK/spring.png" /> 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/31qMkVQ/vscode.png" />
 
