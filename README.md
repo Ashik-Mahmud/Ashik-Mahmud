@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hello <Everyone/> </h1>
 ##  I am [Ashik Mahmud](https://ashik-mahmud.github.io/mission-2022/) a passionate Web developer
 > I love **JavaScript & React** as well
 
@@ -91,7 +91,7 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/ashik-mahmud/dictionary-app?style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/Ashik-Mahmud/tempareture-app"><b>Tempareture Application in JavaScript.</b></a></td>
+	<td><a href="https://github.com/Ashik-Mahmud/tempareture-app"><b>Tempareture Application.</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Ashik-Mahmud/tempareture-app?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Ashik-Mahmud/tempareture-app?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Ashik-Mahmud/tempareture-app?style=flat-square"/></td>
@@ -99,7 +99,7 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Ashik-Mahmud/tempareture-app?style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/Ashik-Mahmud/quiz-app"><b>Quiz Application in JavaScript./b></a></td>
+	<td><a href="https://github.com/Ashik-Mahmud/quiz-app"><b>Quiz Application .</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Ashik-Mahmud/quiz-app?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Ashik-Mahmud/quiz-app?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Ashik-Mahmud/quiz-app?style=flat-square"/></td>
@@ -107,12 +107,20 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Ashik-Mahmud/quiz-app?style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/Ashik-Mahmud/speed-test"><b>Typing Speed Test App in JavaScript.</b></a></td>
+	<td><a href="https://github.com/Ashik-Mahmud/speed-test"><b>Typing Speed Test App.</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Ashik-Mahmud/speed-test?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Ashik-Mahmud/speed-test?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Ashik-Mahmud/speed-test?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ashik-Mahmud/speed-test?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Ashik-Mahmud/speed-test?style=flat-square"/></td> 
+      </tr>
+       <tr>
+	<td><a href="https://github.com/Ashik-Mahmud/dynamic-blogs"><b>Dynamic Blogs.</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Ashik-Mahmud/dynamic-blogs?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Ashik-Mahmud/dynamic-blogs?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Ashik-Mahmud/dynamic-blogs?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ashik-Mahmud/dynamic-blogs?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Ashik-Mahmud/dynamic-blogs?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
