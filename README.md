@@ -60,7 +60,7 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 <br>
 ## ⚡ My Statistics
 <a href="https://ashik-mahmud.github.io/mission-2022/">
-    <img alt="Ashik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashik-mahmud&custom_title=Ashik's%20Contribution%20Graph&theme=nord" />
+    <img alt="Ashik's Activity Graph" style="border:none; border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=ashik-mahmud&custom_title=Ashik's%20Contribution%20Graph&theme=nord" />
 </a>
 <p align="left">
   <a href="https://ashik-mahmud.github.io/mission-2022/">
