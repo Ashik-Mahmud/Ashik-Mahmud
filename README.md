@@ -58,16 +58,17 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 <br />
 <br />
 <br>
-## ⚡ My Statistics
-<a href="https://ashik-mahmud.github.io/mission-2022/">
-    <img alt="Ashik's Activity Graph" style="border:none; border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=ashik-mahmud&custom_title=Ashik's%20Contribution%20Graph&theme=nord" />
-</a>
+
 <p align="left">
   <a href="https://ashik-mahmud.github.io/mission-2022/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ashik-mahmud&show_icons=true&theme=nord&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-mahmud&theme=nord&hide_border=true" />
   </a>
 </p>
+## ⚡ My Statistics
+<a href="https://ashik-mahmud.github.io/mission-2022/">
+    <img alt="Ashik's Activity Graph" style="border:none; border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=ashik-mahmud&custom_title=Ashik's%20Contribution%20Graph&theme=nord" />
+</a>
 <br>
 <br />
 
