@@ -133,7 +133,6 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ashik-Mahmud/dynamic-blogs?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Ashik-Mahmud/dynamic-blogs?style=flat-square"/></td> 
       </tr>
-     
     </tbody>
   </table>
 
