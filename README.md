@@ -83,12 +83,12 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
     </thead>
     <tbody>
 	<tr>
-	<td><a href="https://github.com/ashik-mahmud/css-box-shadow-generator-by-react"><b>CSS Box Shadow Generator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
+	<td><a href="https://github.com/Ashik-Mahmud/dictionary-app"><b>Dictionary Application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ashik-mahmud/dictionary-app?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ashik-mahmud/dictionary-app?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ashik-mahmud/dictionary-app?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ashik-mahmud/dictionary-app?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ashik-mahmud/dictionary-app?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/saifullahsiddique/craftnce-agency-wordpress-theme"><b>Craftnce - Agency WordPress Theme</b></a></td>
