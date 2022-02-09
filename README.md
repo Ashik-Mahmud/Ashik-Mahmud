@@ -68,6 +68,57 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 <br>
 <br />
 
+### 🥇 <b>Open Source Projects open for contributions.</b>
+
+  <table>
+    <thead align="left">
+      <tr border: none;>
+        <td><b>Projects</b></td>
+        <td><b>Stars</b></td>
+        <td><b>Forks</b></td>
+        <td><b>Issues</b></td>
+        <td><b>Pull Requests</b></td>
+        <td><b>Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+	<tr>
+	<td><a href="https://github.com/ashik-mahmud/css-box-shadow-generator-by-react"><b>CSS Box Shadow Generator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/css-box-shadow-generator-by-react?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/saifullahsiddique/craftnce-agency-wordpress-theme"><b>Craftnce - Agency WordPress Theme</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/craftnce-agency-wordpress-theme?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme"><b>Plantex - Plant Selling WooCommerce Theme</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/plantex-house-plant-selling-wordpress-woocommerce-theme?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme"><b>Xisen - Agency WordPress Theme</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+
+
+<br/>
 
 <br>
 
