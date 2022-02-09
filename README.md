@@ -58,7 +58,7 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 <br />
 <br />
 <br>
-## 👍🏻 My Statistics
+## My Statistics
 <a href="https://ashik-mahmud.github.io/mission-2022/">
     <img alt="Ashik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashik-mahmud&custom_title=Ashik's%20Contribution%20Graph&theme=nord" />
 <p align="left">
