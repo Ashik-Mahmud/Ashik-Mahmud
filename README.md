@@ -1,5 +1,5 @@
 ## Hello < Everyone / >!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='25'> 
-##  I am [Ashik Mahmud](https://ashik-mahmud.github.io/mission-2022/) a passionate Web developer
+##  I am [Ashik Mahmud](https://ashik-mahmud.github.io/mission-2022/](https://dev-ashikmahmud.netlify.app/) a passionate Web developer
 > I love **JavaScript & React** as well
 
 <br>
