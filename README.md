@@ -144,10 +144,13 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Mahmud&card_width=550px)   -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="Ashik Mahmud Profile Views" /> </p>
+
 
 ## 📧 For Business Inquiries 
 ✅  ► ashikmamud187@gmail.com <br><br><br>
 **Thanks a lot <br>
 For Enter In my Github Account.**
 > Take ***Love*** ALways
+
 
