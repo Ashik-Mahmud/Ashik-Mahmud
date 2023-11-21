@@ -1,10 +1,38 @@
-## Hello < Everyone / >!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='25'> 
+<!--## Hello < Everyone / >!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='25'> 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Web+Developer;Self+taught+UI%2FUX+Designer;%2B+years+of+coding+experience;Always+learning+new+things">
+</p>
+
 ##  I am [Ashik Mahmud](https://dev-ashikmahmud.netlify.app/) a passionate Web developer
 > I love **JavaScript & React** as well
-
+-->
 <br>
  <img style="width: 100%;"  src="https://i.ibb.co/WG92kt4/Christmas-Garlands-and-Mistletoe-Twitter-Header.png" />
 <br>
+
+
+<h3 align="center">
+Welcome to Ashik Mahmud's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Web+Developer;Self+taught+Developer;2%2B+years+of+coding+experience;Always+learning+new+things">
+</p>
+
+Hi, I am Ashik Mahmud, a self-taught web developer. I think you had a successful day today. I'm glad to see you here
+
+- 💻 I ~like~ **love** coding
+- 🔭 I’m currently working on <!-- Machine Learning --> an  **Estate management Pro App**. Keep an eye for it.
+- 🌱 I’m currently learning <!-- Machine Learning Libraries --> ~Next level web technologies~
+- 👯 I’m looking to collaborate on opensource and group projects.
+<br/>
+<br/>
+
+I am a passionate software/Web developer with a knack for problem-solving and a love for clean and efficient code. With a strong foundation in various programming languages and frameworks, I am always eager to expand my knowledge and explore new technologies. With a keen eye for detail and a dedication to delivering high-quality software solutions, I am driven to make a positive impact in the world of technology. Connect with me on GitHub to see my activity and collaborative projects.
+
+<br />
 
 ### Connect with me:
 
@@ -13,10 +41,6 @@
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/AshikMa36093377)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ashikmahmud187/)
 <br/>
-
-Hey! You already known about of me I am the very passionate person to do Web Developing & Researching. Would you like to do this kind of work. What are you looking for- Just go down and pick Email to email me for your work. I am specialist in React & JavaScript Overall Web Developing and also I am ready to consalt you any web related decision. If you have any project so feel free to hire me. And also you can hire through above all kind of social media. Thanks for visit my github account.
-
-<br />
 
 ### Languages and Tools:
 
@@ -58,10 +82,13 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 <br />
 <br />
 <br />
-<a href="https://ashik-mahmud.github.io/mission-2022/">
-    <img alt="Ashik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashik-mahmud&custom_title=Ashik's%20Contribution%20Graph&theme=nord" />
+<p align="left" style="width:100%">
+  <a href="https://github.com/ashik-mahmud"style="width:100%;display:block;"> <img align="center" style="max-width:100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashik-mahmud&layout=compact&show_icons=true&theme=nord&hide_border=true" />
+</a>
+</p>
+  
 <p align="left">
-  <a href="https://ashik-mahmud.github.io/mission-2022/">
+  <a href="https://www.linkedin.com/in/ashikmahmud187/" target="_blank">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ashik-mahmud&show_icons=true&theme=nord&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-mahmud&theme=nord&hide_border=true" />
   </a>
@@ -144,13 +171,12 @@ Hey! You already known about of me I am the very passionate person to do Web Dev
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Mahmud&card_width=550px)   -->
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="Ashik Mahmud Profile Views" /> </p>
 
 
 ## 📧 For Business Inquiries 
 ✅  ► ashikmamud187@gmail.com <br><br><br>
-**Thanks a lot <br>
-For Enter In my Github Account.**
-> Take ***Love*** ALways
+**Always Wishing your great time**
 
 
